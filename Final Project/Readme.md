@@ -1,6 +1,6 @@
 The WSU CS 770 (Machine Learning) final group project focused on the recreation of a attention-based neural machine translation model and analysis of its performance.
 
-The group successfully recreated the transformer using open data and compared its performance to mBART on the same dataset.
+The group successfully recreated the transformer using open data and compared its performance to mBART on the same dataset (WMT14 German-English).
 
 The primary constraint was: processing time and memory availability across the entire dataset, therefore the entire scales were drastically reduced and this significantly impacted performance across both models.
 
